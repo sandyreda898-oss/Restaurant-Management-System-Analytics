@@ -40,6 +40,3 @@ This project simulates a real-world restaurant management system including:
 - Delivery employee performance
 - Inventory reorder monitoring
 
-
-## Dashboard Preview
-(Add screenshots here)
