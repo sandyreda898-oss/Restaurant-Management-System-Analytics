@@ -88,6 +88,6 @@ This project simulates a real-world restaurant management system including:
 
 *Sandy Reda*
 
-Data Science Student | AI & Analytics Enthusiast
+Data Science Student & AI
 
 ⭐ If you like this project, don't forget to give it a Star!
