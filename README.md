@@ -17,6 +17,50 @@ This project simulates a real-world restaurant management system including:
 - Plotly
 - PyODBC
 
+  # 📊 Dashboard Preview
+
+## 🏠 Home Dashboard
+![Home Dashboard](assets/Home%20dashboard.jpg)
+
+---
+
+## 📈 KPI Dashboard
+![KPI Dashboard](assets/KPIs.jpg)
+
+---
+
+## 🍔 Menu & Revenue Analysis
+![Menu & Revenue](assets/Menu&Revenue.jpg)
+
+---
+
+## 📦 Inventory Dashboard
+![Inventory Dashboard](assets/Inventory.jpg)
+
+---
+
+## 👥 Customer & Staff Dashboard
+![Customer & Staff Dashboard](assets/Customer&Staff.jpg)
+
+---
+
+## ⭐ Reviews & Delivery Dashboard
+![Reviews & Delivery Dashboard](assets/Reviews&Delivery.jpg)
+
+---
+
+# 🛠️ Technologies Used
+
+- SQL Server
+- Python
+- Streamlit
+- Pandas
+- Plotly
+- PyODBC
+
+---
+
+
 ## Database Features
 - Relational database design
 - Multiple normalized tables
@@ -40,3 +84,10 @@ This project simulates a real-world restaurant management system including:
 - Delivery employee performance
 - Inventory reorder monitoring
 
+#  Author
+
+*Sandy Reda*
+
+Data Science Student | AI & Analytics Enthusiast
+
+⭐ If you like this project, don't forget to give it a Star!
